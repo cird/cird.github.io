@@ -65,13 +65,14 @@ li{
 	line-height: 28px;
 }
 
-bluestyle{cursor: pointer;
-display: inline-block;
-margin: 10px;
-font-weight: normal;
-text-decoration: none;
-font-size: 20px;
-line-height: 40px;
-padding: 0px 20px;
-background: rgb(40, 83, 111);
+.bluestyle{
+	cursor: pointer;
+	display: inline-block;
+	margin: 10px;
+	font-weight: normal;
+	text-decoration: none;
+	font-size: 20px;
+	line-height: 40px;
+	padding: 0px 20px;
+	background: rgb(40, 83, 111);
 }
